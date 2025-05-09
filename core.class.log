@@ -1,0 +1,96 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185215524@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4314D3AC5100C39827',
+    participant: undefined
+  },
+  messageTimestamp: 1746757932,
+  pushName: 'Andres G',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573185215524'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_901ef600-7034-47c8-aa90-0eb0ba48ad57',
+  keyword: 'key_6b72ef8b-c712-463a-bdf1-721a7efe341a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3bb40d711f835e1e7bb8ca466d925cb6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e65efd0f-0afd-42e6-805a-cbe43489e027',
+  keyword: 'ans_901ef600-7034-47c8-aa90-0eb0ba48ad57',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bd204cb398cd485184b72297bfc54bf0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185215524@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC9BEB2D7686A01B1F1',
+    participant: undefined
+  },
+  messageTimestamp: 1746757965,
+  pushName: 'Andres G',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573185215524'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ac22325-c589-4fd8-9a04-f34c2805b3f4',
+  keyword: 'key_3d045dbb-85dd-4179-82ec-5307f2eece24',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ea666a270e44e19146b5e84fa5f05fdb'
+}
